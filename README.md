@@ -1,6 +1,8 @@
 # push_swap
 94 points
 
+For detailed information, refer to the **[subject of this project](https://github.com/ilnrzakirov/push_swap/blob/main/en.subject.pdf)**
+
 <br>• The game is composed of 2 stacks named a and b.</br>
 <br>• To start with:</br>
 <br>◦ the stack a contains a random amount of negative and/or positive numbers
